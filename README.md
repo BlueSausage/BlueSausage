@@ -16,7 +16,7 @@ I’m a passionate computer scientist with a strong focus on autonomous systems 
 
 - **Netfonds AG (2025–Today):** Driving digital transformation with AI in a regulated financial environment  
 - **Hawego.de (2020–2025):** Automated data flows and shipping logic in e-commerce systems  
-- **NEULAND GmbH (2018–2020):** Automation and product data management via custom scripting
+- **NEULAND GmbH (2018–2020):** Automation and product data management via custom scripting in Google Sheets
 
 ---
 
