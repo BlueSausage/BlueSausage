@@ -14,10 +14,10 @@ I’m a passionate computer scientist with a strong focus on autonomous systems 
 
 ## 💼 Experience
 
-- **karriere tutor GmbH (2025–Today):** Supporting and optimizing AI applications and conducting data analysis to drive innovation in the education sector
-- **Netfonds AG (2025–Today):** Driving digital transformation with AI in a regulated financial environment  
-- **Hawego.de (2020–2025):** Automated data flows and shipping logic in e-commerce systems  
-- **NEULAND GmbH (2018–2020):** Automation and product data management via custom scripting in Google Sheets
+- **karriere tutor GmbH (09/2025–Today):** Supporting and optimizing AI applications and conducting data analysis to drive innovation in the education sector
+- **Netfonds AG (02/2025–09/Today):** Driving digital transformation with AI in a regulated financial environment  
+- **Hawego.de (11/2020–02/2025):** Automated data flows and shipping logic in e-commerce systems  
+- **NEULAND GmbH (08/2018–11/2020):** Automation and product data management via custom scripting in Google Sheets
 
 ---
 
