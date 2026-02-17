@@ -1,6 +1,6 @@
 # 🚀 Strategist by night, developer by day. Think of me as the Jol-Nar of code - minus the frailty.
 
-I’m a passionate computer scientist with a strong focus on autonomous systems and data science. I enjoy building intelligent systems and automating workflows using technologies like Python, C++, and JavaScript. My background spans academic research, industry projects, and personal explorations in the fields of AI, automation, and data analysis.
+I’m a passionate computer scientist with a strong focus on autonomous systems and data science. I enjoy building intelligent systems and automating workflows using technologies like Python and JavaScript. My background spans academic research, industry projects, and personal explorations in the fields of AI, automation, and data analysis.
 
 ---
 
@@ -8,7 +8,7 @@ I’m a passionate computer scientist with a strong focus on autonomous systems 
 
 - **KI & Data Science:** Building and integrating AI tools (e.g., Google Gemini) into real-world business processes  
 - **Automation:** From Google Apps Scripts to backend data pipelines  
-- **Software Development:** Projects using Python, JavaScript, C++, and Java  
+- **Software Development:** Projects using Python and JavaScript  
 
 ---
 
@@ -30,7 +30,7 @@ I’m a passionate computer scientist with a strong focus on autonomous systems 
 
 ## ⚙️ Tech Stack
 
-- **Languages:** Python, C++, Java, JavaScript  
+- **Languages:** Python, JavaScript, C++, Java  
 - **Frameworks:** PyTorch, TensorFlow, Pandas, NumPy  
 - **Databases:** MySQL, MongoDB, NoSQL
 
