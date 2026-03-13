@@ -1,23 +1,28 @@
 # 🚀 Strategist by night, developer by day. Think of me as the Jol-Nar of code - minus the frailty.
 
-I’m a passionate computer scientist with a strong focus on autonomous systems and data science. I enjoy building intelligent systems and automating workflows using technologies like Python and JavaScript. My background spans academic research, industry projects, and personal explorations in the fields of AI, automation, and data analysis.
+I’m a passionate computer scientist with a strong focus on autonomous, data-driven systems and data engineering. 
+
+I enjoy designing and building intelligent systems that collect, process, and transform data into useful insights and automating workflows. My work focuses on integrating different data sources, building scalable data pipelines, and automating data workflows using technologies like Python and modern data infrastructure tools. My background combines academic research, industry experience, and personal projects across AI, automation, data processing, and software development.
 
 ---
 
 ## 🧠 What I Work On
 
+- **Data Engineering:** Designing data pipelines, ETL workflows, and data processing systems
 - **KI & Data Science:** Building and integrating AI tools (e.g., Google Gemini) into real-world business processes  
-- **Automation:** From Google Apps Scripts to backend data pipelines  
-- **Software Development:** Projects using Python and JavaScript  
+- **Automation:** Building automated data workflows and integrations
+- **Data Processing:** Working with structured and semi-structured data using Python-based tools
+- **Software Development:** Developing backend services and data-driven applications
 
 ---
 
 ## 💼 Experience
 
-- **karriere tutor GmbH (09/2025–Today):** Supporting and optimizing AI applications and conducting data analysis to drive innovation in the education sector
+- **karriere tutor GmbH (09/2025–Today):** Supporting and optimizing AI-based applications and analyzing data to derive actionable insights for educational products
 - **Netfonds AG (02/2025–09/2025):** Driving digital transformation with AI in a regulated financial environment  
-- **Hawego.de (11/2020–02/2025):** Automated data flows and shipping logic in e-commerce systems  
-- **NEULAND GmbH (08/2018–11/2020):** Automation and product data management via custom scripting in Google Sheets
+- **Hawego.de (11/2020–02/2025):** Automated data flows and shipping logic in e-commerce systems using Python and Google Apps Script 
+- **NEULAND GmbH (08/2018–11/2020):** 
+Managing product data and building automation tools for data processing in Google Sheets environments
 
 ---
 
@@ -30,16 +35,28 @@ I’m a passionate computer scientist with a strong focus on autonomous systems 
 
 ## ⚙️ Tech Stack
 
-- **Languages:** Python, JavaScript, C++, Java  
-- **Frameworks:** PyTorch, TensorFlow, Pandas, NumPy  
-- **Databases:** MySQL, MongoDB, NoSQL
+**Languages**  
+Python · JavaScript · C++
+
+**Data Engineering & Processing**  
+ETL / Data Pipelines · Pandas · NumPy · Polars · Web Scraping
+
+**Big Data & Streaming**  
+Apache Kafka · Apache Spark
+
+**Databases & Storage**  
+PostgreSQL · MySQL · MongoDB · Object Storage (MinIO)
+
+**Infrastructure & Tools**  
+Docker · Git · Apache Superset · Prometheus
 
 ---
 
 ## 🌱 Currently Learning
 
 - Developing autonomous robots that navigate their environment using Isaac Sim/Lab and reinforcement learning
-- Statistics & Data Science fundamentals and applications
+- Building scalable data pipelines and data infrastructure
+- Data platform architecture and modern data stacks
 
 ---
 
