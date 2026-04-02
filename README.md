@@ -36,7 +36,7 @@ Managing product data and building automation tools for data processing in Googl
 ## ⚙️ Tech Stack
 
 **Languages**  
-Python · JavaScript · C++
+Python · JavaScript · Rust
 
 **Data Engineering & Processing**  
 ETL / Data Pipelines · Pandas · NumPy · Polars · Web Scraping
