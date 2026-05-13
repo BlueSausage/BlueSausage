@@ -18,7 +18,7 @@ I enjoy designing and building intelligent systems that collect, process, and tr
 
 ## 💼 Experience
 
-- **karriere tutor GmbH (09/2025–Today):** Supporting and optimizing AI-based applications and analyzing data to derive actionable insights for educational products
+- **karriere tutor GmbH (09/2025–05/2026):** Supporting and optimizing AI-based applications and analyzing data to derive actionable insights for educational products
 - **Netfonds AG (02/2025–09/2025):** Driving digital transformation with AI in a regulated financial environment  
 - **Hawego.de (11/2020–02/2025):** Automated data flows and shipping logic in e-commerce systems using Python and Google Apps Script 
 - **NEULAND GmbH (08/2018–11/2020):** 
